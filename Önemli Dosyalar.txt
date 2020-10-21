@@ -1,0 +1,5 @@
+application/config/s3.php
+application/config/config.php // base_url değişkeni
+Application/libraries/S3_upload.php
+application/controllers/upload.php
+application/controllers/Anasayfa.php
